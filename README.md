@@ -72,6 +72,8 @@ hdfs dfs -mkdir -p /user/ved/wine_data/white
 hdfs dfs -put winequality-red.csv /user/ved/wine_data/red/
 hdfs dfs -put winequality-white.csv /user/ved/wine_data/white/
 ```
+
+
 ---
 ### 2. HIVE table creation
 
@@ -155,7 +157,7 @@ This transformation is repeated for each of the CSVs produced by Hive (e.g., avg
 
 ### 5. Data Visualization (Matplotlib + Seaborn)
 
-#### Full Code: []()
+#### Full Code: [BigDataProject.ipynb](https://colab.research.google.com/drive/1jh1yTIE0xAsk3KrseKLrr2LsyMqIAP1f?usp=sharing)
 After processing and cleaning the data, we use Matplotlib and Seaborn to create visualizations.
 Example: Distribution of Wine Quality
 
