@@ -204,5 +204,5 @@ This project lays a strong foundation for future work in the following areas:
 ---
 
 ### Author:
-👤 Ved — Final-year IT undergrad, Tech-Lead @ IEEE-VIT, interested in Big Data, Cybersecurity, and DevOps.
+👤 Ved — Pre-final year IT undergrad, Tech-Lead @ IEEE-VIT, interested in Big Data, Cybersecurity, and DevOps.
 Feel free to reach out for collaborations!
