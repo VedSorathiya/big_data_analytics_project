@@ -1,5 +1,5 @@
 
-# 🍷 Wine Quality Analysis using Hadoop, Hive, and Apache Spark
+# Wine Quality Analysis using Hadoop, Hive, and Apache Spark
 
 A Data Analytics project leveraging Big Data tools to analyze and compare red and white wine datasets. This project showcases a complete ETL and data analysis pipeline using:
 
@@ -10,7 +10,7 @@ A Data Analytics project leveraging Big Data tools to analyze and compare red an
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 Wine Quality datasets from [Kaggle](https://www.kaggle.com/datasets/rajyellow46/wine-quality).  
 Contains physicochemical and quality ratings for red and white wines.
@@ -22,7 +22,7 @@ Contains physicochemical and quality ratings for red and white wines.
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 | Component     | Purpose                             |
 |---------------|-------------------------------------|
@@ -35,7 +35,7 @@ Contains physicochemical and quality ratings for red and white wines.
 
 ---
 
-## 🧪 Step-by-Step Pipeline
+## Step-by-Step Pipeline
 
 
 ### 0. Setup and Configurations
@@ -114,7 +114,7 @@ We repeat this process for white wine using the same schema.
 
 ---
 
-### 3. HIVE queries + saving results to HDFS
+### 3. HIVE queries + saving results to HDFS (refer hive-queries.hql)
 
 We then run queries in Hive to compute various statistics and results. Here’s a detailed explanation of one of the query:
 
